@@ -1,0 +1,6 @@
+json
+os
+colored
+termcolor
+argparse
+ShazamAPI
