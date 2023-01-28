@@ -11,10 +11,17 @@ pip install -r requirements.txt
 ```
 Then run script : 
 ```shell
-python copyright.py -p /path/to/audio/folder/
+python copyright.py -p /User/yousbot/Desktop/MusicFile
 
 ```
-
+The output :
+```shell
+ [ Verifying copyrighted materials ... ] 
+ [ Copyright : flute.mp4 ] 
+ [ Title : Hitomi: Eyes - Rodrigo Rodriguez ] 
+ [ Title : Tokyo Asmr - Emanuel Satie ] 
+ [ Copyright verification finished. 
+```
 ## Authors
 
 - LinkedIn : [Youssef Sbai Idrissi](https://www.linkedin.com/in/sbaiidrissiyoussef/)
